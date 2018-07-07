@@ -7,4 +7,5 @@ Capture image from camera → Apply background reduction → Image processing/me
 
 ## Directory content
 Autonomous People Counter Final Report.pdf --> Full report
+
 Computer_Vision.py --> Python code for computer vision system
